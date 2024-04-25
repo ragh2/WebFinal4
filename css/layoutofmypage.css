@@ -1,0 +1,58 @@
+.picture{
+    right: 3px;
+    top: 125px;
+    position: absolute;
+}
+.common{
+    /* background-color: #cccccc; */
+    border: 2px solid white;
+    position: absolute;
+    right: 5px;
+    top: 454px;
+    width: 300px;
+}
+.minibio{
+    right: 5px;
+    top: 454px;
+    position: absolute;
+    font-size: 14px;
+    height: 360px;
+    z-index: 1;
+    background: rgb(209, 165, 127, 0.666);
+}
+.AP{
+    right: 5px;
+    position: absolute;
+    top: 824px;
+}
+.APvid{
+    position: absolute;
+    right: 150px;
+    top: 824px;
+    z-index: 2;
+}
+.knight{
+    right: 5px;
+    position: absolute;
+    top: 1029px; 
+}
+.kvid{
+    right: 150px;
+    position: absolute;
+    top: 1029px;
+    z-index: 2;
+}
+.ford{
+    right: 5px;
+    position: absolute;
+    top: 1234px;
+}
+.fvid{
+    right: 150px;
+    position: absolute;
+    top: 1234px;
+    z-index: 2;
+}
+.nav{
+    float:right;
+}
